@@ -21,23 +21,24 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # CODING AND OUTPUT:
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7e68f922-10e4-44d1-9a2b-a5a02871c992)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/593150f6-3064-4720-9353-d7affb1121ec)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/e03e52a7-291e-4652-8cc1-f888843ffe10)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0114f258-75e1-45ee-90a9-beb71b72d3b2)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/56f36c1c-2a65-4a2d-9e3b-4d5daa09f0cc)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/5c6b2913-fe39-4c93-8a09-3fabd2c47100)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/b901fd4a-50b8-4a7c-8526-532c4b67378e)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/d699fade-c66d-4062-bb1a-8115cc5c1ad6)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7d2e17df-cc20-496f-90cf-82892cb1d000)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/00bbfcf3-26e1-4e55-82fd-ddaa0bf258cc)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/b98a52f0-a6d6-405e-ba9d-c9aeef8fed48)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/fae1eb66-5d10-4af3-aed3-e3a7922d31bb)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/89eb986e-c479-4568-b479-c5bcf381a7fa)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0dcd6ac1-b03e-4f9c-a6a7-694958cc5331)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/d1dffe1d-442a-4efb-b168-2d165f899208)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7d64e06a-a299-4b8e-8826-2faf9e1564ae)
-![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/452fdafc-2c7d-4cc3-8467-2c23f75f9aaf)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/6d055730-ed5f-40ae-a0e3-f022c762e09f)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/6b41431d-8cc1-4588-89d8-b0ae4b3ee33e)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/21e95b0d-dd9c-4f0e-8c46-b8429e5ae65c)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/ac59d3f3-2b2e-4bd8-8042-81fff5eda22c)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/4b02f8a9-38fe-45fd-b570-a5c01c1c3784)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/74272e47-8a41-4595-8aa2-1f9ab1f0a92f)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/d8e07b0d-912c-4081-ac97-02e8f019bb8d)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/fada16df-60a6-4883-941e-4d03a651ca24)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/a8371b79-c4af-46be-a9e4-ba7d82852c65)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/2ea6aca4-9af2-47b9-8c98-0f42281ce922)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/f87a06f9-c4e0-4810-adee-f4eca161c359)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/3a86ecc6-f125-4912-b0f3-e3ec0afd5289)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/3f8608f7-4acf-435d-97ad-e5d633adf281)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/2c7c2325-d00a-4744-9698-71729e95f1ef)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/8571ce39-d8ca-40ac-bc44-106caf778dc8)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/595d2287-edc4-4d09-a5c2-a91483632020)
+![image](https://github.com/danush564/INTRO-TO-DS/assets/98585166/2c81d052-5571-48a0-a4f1-51eb18bf6e10)
+
 
 # RESULT
-          Thus the given data is read and data cleaning is performed.
+Thus the given data is read and data cleaning is performed.
